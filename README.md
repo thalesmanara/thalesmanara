@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá! Eu sou Thales Manara
+Desenvolvedor em progresso! 📚
+
+Cursando Análise e Desenvolvimento de Sistemas
 
 <!--
 **thalesmanara/thalesmanara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
