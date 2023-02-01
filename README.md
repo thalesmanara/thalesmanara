@@ -1,5 +1,5 @@
 ### Olá! Eu sou Thales Manara
-Desenvolvedor em progresso!
+Desenvolvedor em formação!
 
 Cursando Análise e Desenvolvimento de Sistemas 📚
 
