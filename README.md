@@ -1,5 +1,5 @@
 ### Olá! Eu sou Thales Manara
-Desenvolvedor no Companhia da Mídia (Uberaba-MG) e formando em Análise e Desenvolvimento de Sistemas 📚
+Desenvolvedor Full Stack na empresa Companhia da Mídia (Uberaba-MG) e formando em Análise e Desenvolvimento de Sistemas 📚
 
 ##
   
