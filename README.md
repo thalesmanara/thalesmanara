@@ -1,5 +1,5 @@
 ### Olá! Eu sou Thales Manara
-Desenvolvedor em Uberaba-MG e pós graduando em Ciência de dados e Big Data Analytics
+Desenvolvedor em Uberaba-MG e pós graduando em Ciência de dados e Big Data Analytics. Este é meu novo perfil do Github que focará nos meus mais recentes estudos e stacks.
 
 ##
   
